@@ -119,6 +119,6 @@ function spawnClouds() {
     trex.depth = trex.depth + 1;
     
     //add each cloud to the group
-    cloudsGroup.add(cloud);
+    cloudsGroup.add(cloud)
    }
   }  
